@@ -1,6 +1,8 @@
 ## Full License Text
 ## Non-Profit Open Software License ("Non-Profit OSL") 3.0
 
+### Copyright (c) 2021 Demidov Nikita hamsteruser@gmail.com
+
 This Non-Profit Open Software License ("Non-Profit OSL") version 3.0 (the "License") applies to any original work of authorship (the "Original Work") whose owner (the "Licensor") has placed the following licensing notice adjacent to the copyright notice for the Original Work:
 
 Licensed under the Non-Profit Open Software License version 3.0
